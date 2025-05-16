@@ -14,4 +14,4 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 
 
 You tube link of project
-https://www.youtube.com/shorts/Ck9-sCyHlpc
+https://www.youtube.com/shorts/jMJ3OgoeMIU
